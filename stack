@@ -1,0 +1,25 @@
+# JoshuaJose
+class Stack:
+    def stack(self):
+        i = input("enter input:")
+
+    def peek(self):
+        return self.items[len(self.items) - 1]
+
+    def pop(self):
+        return self.items.pop(stack= list(set(i) - set()))
+
+    s.push(x)
+    print s.peek()
+
+    print "last element =", s.peek()
+
+# iclass Stack:
+    def remove_dup():
+        i = input("enter input:")
+        list(set(i))
+        s = i
+        remove_dup = list(set(i) - set())
+        print (remove_dup)
+        return remove_dup
+    remove_dup()f __name__ == "__main__":
