@@ -1,0 +1,9 @@
+S = "SIEZE THE DAY!"
+
+print S
+
+#REVERSE
+print ' '.join(reversed(S))
+
+#WORD REPLACE
+print S.replace("SIEZE THE DAY", "KILL THEM HATERS")
